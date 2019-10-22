@@ -1,0 +1,36 @@
+﻿  falgmakkkke.cpp
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(20,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(24,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(97,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(101,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(118,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(122,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(146,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(150,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(153,7): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(157,12): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(194,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(198,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(238,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(242,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(245,7): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(250,12): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(289,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(293,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(296,80): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(296,77): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(296,66): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(296,40): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(296,25): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(328,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(332,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(336,80): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(336,77): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(336,66): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(336,40): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(336,25): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(479): warning C4715:  'getCorrectSizeHorizontal': not all control paths return a value
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(405): warning C4715:  'chooseFlag': not all control paths return a value
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(454): warning C4715:  'chooseAnotherFlag': not all control paths return a value
+D:\VisualStudio\falgmakkkke\falgmakkkke\falgmakkkke.cpp(502): warning C4715:  'getCorrectSizeVertical': not all control paths return a value
+  falgmakkkke.vcxproj -> D:\VisualStudio\falgmakkkke\Debug\falgmakkkke.exe
